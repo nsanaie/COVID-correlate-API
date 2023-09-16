@@ -9,6 +9,10 @@ Responds with data that can be used to analyze a correlation between C02 intensi
 ### [Carbon Intensity API (UK)](https://carbon-intensity.github.io/api-definitions/#carbon-intensity-api-v2-0-0)
 ### [Covid-19 API (UK)](https://coronavirus.data.gov.uk/details/developers-guide/generic-api)
 
+## Documentation
+
+Coming soon.
+
 ## Database
 
 Uses a firestone realtime database to cache responses to calls, with the goal of greatly improving the respose time of this API as well as the heavy cost of calling the Carbon Intensity API.
