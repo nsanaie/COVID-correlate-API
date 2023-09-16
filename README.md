@@ -11,7 +11,7 @@ Responds with data that can be used to analyze a correlation between C02 intensi
 
 ## Database
 
-Uses a firestone realtime database to cache responses to call, with the goal of greatly improving the respose time of this API as well as the heavy cost of calling the Carbon Intensity API.
+Uses a firestone realtime database to cache responses to calls, with the goal of greatly improving the respose time of this API as well as the heavy cost of calling the Carbon Intensity API.
 
 ## Dependencies
 
