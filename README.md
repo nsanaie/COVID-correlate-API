@@ -28,5 +28,5 @@ Uses a firestone realtime database to cache responses to calls, with the goal of
 
 * Download Node.JS version 12 or later, and clone/download this repository.
 * Install the dependencies with the `npm install` command.
-* Add your own serviceAccount.json for use of firebase realtime database
-* After that, just run it with the `npm start` command and you're done!
+* Add your own serviceAccount.json for use of firebase realtime database.
+* Run with the `npm start` command.
