@@ -12,3 +12,10 @@ Responds with data that can be used to analyze a correlation between C02 intensi
 ## Database
 
 Uses a firestone realtime database to cache responses to call, with the goal of greatly improving the respose time of this API as well as the heavy cost of calling the Carbon Intensity API.
+
+## Dependencies
+
+* [express](https://www.npmjs.com/package/express) version 4.18.2
+* [nodemon](https://www.npmjs.com/package/nodemon) version 3.0.1
+* [firebase-admin](https://www.npmjs.com/package/firebase-admin) version 11.10.1
+* [moment](https://www.npmjs.com/package/moment) version 2.29.4
